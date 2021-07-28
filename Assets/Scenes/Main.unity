@@ -22435,7 +22435,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2039551496181148355, guid: 1547bdc42dfd294439f6af6aa1470d10, type: 3}
       propertyPath: spawnTimer
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1547bdc42dfd294439f6af6aa1470d10, type: 3}
@@ -22561,7 +22561,7 @@ PrefabInstance:
       objectReference: {fileID: 426512976}
     - target: {fileID: 7520866233457733867, guid: 744d2e6e5072fb64390b8a9a01f2c5d5, type: 3}
       propertyPath: startingGold
-      value: 200
+      value: 300
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 744d2e6e5072fb64390b8a9a01f2c5d5, type: 3}
