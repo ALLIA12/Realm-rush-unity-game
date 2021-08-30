@@ -1,3 +1,3 @@
 # Realm Rush
 
-Game I made using the game dev courseonline :)
+Game I made using the game dev course online :)
